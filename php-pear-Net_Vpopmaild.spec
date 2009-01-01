@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - Class for accessing Vpopmail's vpopmaild daemon
 Name:		php-pear-%{_pearname}
 Version:	0.3.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/Net_Vpopmaild/
