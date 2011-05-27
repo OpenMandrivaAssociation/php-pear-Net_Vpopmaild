@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3.1
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Class for accessing Vpopmail's vpopmaild daemon
 License:	PHP License
 Group:		Development/PHP
