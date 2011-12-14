@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	0.3.1
-Release:	%mkrel 6
+Version:	0.3.2
+Release:	%mkrel 1
 Summary:	Class for accessing Vpopmail's vpopmaild daemon
 License:	PHP License
 Group:		Development/PHP
